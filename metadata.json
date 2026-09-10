@@ -1,0 +1,6 @@
+{
+  "name": "Matematika Sigma",
+  "description": "Sistem Interaktif Gerbang Modul Matematika Atraktif untuk MA Darunnajah 9",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
